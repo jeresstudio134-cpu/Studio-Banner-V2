@@ -1,0 +1,7 @@
+{
+  "name": "Prompt Studio Banner V2",
+  "description": "Generator prompt JSON untuk desain banner & spanduk berdasarkan konfigurasi teks, kontak, bahan visual, spesifikasi, dan instruksi audio.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
