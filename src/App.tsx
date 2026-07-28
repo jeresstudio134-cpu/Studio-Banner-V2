@@ -124,7 +124,7 @@ export default function App() {
         : {}),
       meta: {
         generated_at: new Date().toISOString(),
-        version: '1.3',
+        version: '2',
         author: 'Prompt Studio Banner By Jeres Studio',
       },
     };
