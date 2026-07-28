@@ -94,7 +94,7 @@ export const PromptOutput: React.FC<Props> = ({ promptData, formattedPromptText 
                 READY
               </span>
               <span className="text-xs text-white/60 font-mono">
-                {activeTab === 'json' ? 'schema_v1.3.json' : 'prompt_text.md'}
+                {activeTab === 'json' ? 'schema_V2.json' : 'prompt_text.md'}
               </span>
             </div>
 
