@@ -24,7 +24,7 @@ export const Header: React.FC<HeaderProps> = () => {
                 Prompt Studio Banner
               </h1>
               <span className="text-[10px] font-mono text-slate-400 bg-slate-100 border border-slate-200 px-1.5 py-0.5 rounded font-medium">
-                v1.3
+                v2
               </span>
             </div>
             <p className="text-[11px] text-slate-400 font-medium tracking-wide mt-1">
